@@ -1106,5 +1106,11 @@
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
   <!-- ProtonAOSP changes -->
-  <include name="proton.xml"/>
+  <include name="snippet/proton.xml"/>
+
+<!-- LineageOS changes -->
+<include name="snippet/los.xml"/>
+
+<!-- PixelExperience changes -->
+<include name="snippet/pe.xml"/>
 </manifest>
