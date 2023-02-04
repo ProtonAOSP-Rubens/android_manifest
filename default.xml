@@ -1111,6 +1111,10 @@
 <!-- LineageOS changes -->
 <include name="snippet/los.xml"/>
 
-<!-- PixelExperience changes -->
-<include name="snippet/pe.xml"/>
+<!-- caf changes -->
+<include name="snippet/caf.xml"/>
+
+<!-- proton-rubens changes -->
+<include name="snippet/proton-rubens.xml"/>
+
 </manifest>
