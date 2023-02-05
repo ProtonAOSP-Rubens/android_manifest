@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 <!-- rubens need -->
-  <remove-project name="platform/vendor/qcom-opensource/cryptfs_hw" />
   <remove-project name="platform/hardware/qcom/thermal" />
   <remove-project name="android_vendor_qcom_opensource_interfaces" />
   <remove-project name="android_vendor_qcom_opensource_commonsys-intf_display" />
