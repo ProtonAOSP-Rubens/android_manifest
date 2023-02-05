@@ -1109,11 +1109,8 @@
   <include name="snippet/proton.xml"/>
 
 <!-- LineageOS changes -->
-<include name="snippet/los.xml"/>
-
-<!-- caf changes -->
 <include name="snippet/remove.xml"/>
-<include name="snippet/caf.xml"/>
+<include name="snippet/los.xml"/>
 
 <!-- proton-rubens changes -->
 <include name="snippet/proton-rubens.xml"/>
